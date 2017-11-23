@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<utf8>
+
 <html>
 
 <style>
