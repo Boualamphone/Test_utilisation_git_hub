@@ -6,7 +6,7 @@
 </style>
 
 <head>
-	<title> Chat Code.bzh</title>
+	<title> Chat Code.bzh de Fleur de Lotus</title>
 
 </head>
 
