@@ -77,7 +77,7 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 		<script>
 		
-			//le fonctionnement que j'ai choisi ici prend un div contenant un texte et une image
+			//le fonctionnement que j'ai choisi ici est modifié par moi prend un div contenant un texte et une image
 			//ce div est positionné par dessus le reste du site : voir plus bas : "position abscolute"
 			//et voir aussi le z-index
 			
